@@ -1,0 +1,28 @@
+split,label,text
+train,account,forgot password cannot login to account
+train,account,reset my password for account access
+train,account,login failed after password reset
+train,account,account locked after login attempts
+train,account,verification code missing for account login
+train,account,password expired cannot access account
+train,network,wifi disconnected cannot connect to internet
+train,network,router offline internet connection failed
+train,network,dns lookup failed on wifi network
+train,network,slow internet connection on wireless network
+train,network,wifi signal weak router connection drops
+train,network,internet unavailable network disconnected
+train,storage,disk full cannot save file
+train,storage,storage space low on disk
+train,storage,file cannot save because storage full
+train,storage,drive running out of space
+train,storage,need disk space to install software
+train,storage,storage warning drive nearly full
+test,account,my account login is locked
+test,account,password reset link failed
+test,account,cannot access account verification code
+test,network,wifi router disconnected again
+test,network,internet connection is slow
+test,network,dns lookup on network failed
+test,storage,my disk has low space
+test,storage,storage full when saving file
+test,storage,drive space warning during install
